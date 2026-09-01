@@ -2,11 +2,11 @@ Distinguished Club Program Report:
     Administration:
         Club officer list on time:
             achieved: "1"
-            status: On-time officer list Achieved
+            status: ""
             target: "Y"
         Membership-renewal dues on time:
-            achieved: "0"
-            status: On-time dues-renewal needed
+            achieved: "1"
+            status: Achieved
             target: "Y"
     DCP Status:
         Membership:
@@ -14,7 +14,7 @@ Distinguished Club Program Report:
             Required: "20"
             To Date: ""
         Overall:
-            Current: "0"
+            Current: "1"
             Distinguished: "No"
             Target: "10"
             Year: 2026-2027
@@ -54,8 +54,8 @@ Distinguished Club Program Report:
             target: "4"
     Training:
         Club officer roles trained June–August:
-            achieved: "0"
-            status: First Training Period 4 needed
+            achieved: "3"
+            status: First Training Period 1 needed
             target: "4"
         Club officer roles trained November–February:
             achieved: "0"
